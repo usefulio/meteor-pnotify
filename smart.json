@@ -1,0 +1,8 @@
+{
+	"name": "pnotify",
+	"description": "PNotify client notification framework",
+	"homepage": "https://github.com/usefulio/meteor-pnotify",
+	"version": "0.0.1",
+	"git": "https://github.com/usefulio/meteor-pnotify.git",
+	"packages": {}
+}
